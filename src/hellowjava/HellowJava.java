@@ -20,7 +20,7 @@ public class HellowJava {
         System.out.println(s);
         System.out.println(s1);
         System.out.println(s1.length());
-        String s2= new String("here is a string");
+        String s2= "here is a string";
         System.out.println(s2);
         System.out.println(s2.length());
         // TODO code application logic here
